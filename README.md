@@ -1,10 +1,10 @@
-# parroty-autofix-demo
+# autofix-playground
+
+Check original repo: vulnerable-code
 
 This repository contains [autofix for CodeQL code scanning](https://docs.github.com/en/enterprise-cloud@latest/code-security/code-scanning/managing-code-scanning-alerts/about-autofix-for-codeql-code-scanning) examples for different languages.
 
-[Pull requests](https://github.com/octodemo/parroty-autofix-demo/pulls) tab contains example alerts.
 
-<img width="1024" alt="image" src="https://github.com/octodemo/parroty-autofix-demo/assets/1172471/da19652b-9b8a-4a13-8550-95325a12e904">
 
 ### Alerts
 
